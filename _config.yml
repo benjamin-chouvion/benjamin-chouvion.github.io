@@ -7,8 +7,8 @@
 # server process.
 
 # change le style
-header:
-  custom_css: "/assets/css/custom.css"
+# header:
+#  custom_css: "/assets/css/custom.css"
   
 # Basic Site Settings
 locale                   : "en-US"
