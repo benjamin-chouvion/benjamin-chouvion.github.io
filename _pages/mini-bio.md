@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Mini-bio"
+permalink: /mini-bio/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Short Bio
-======
 * 2024 : Habilitation à diriger des recherches d'Aix-Marseille Université
 * depuis 2020 : Maître de conférences détaché à l’École de l’Air et de l’Espace, Salon-
 de-Provence
@@ -22,27 +20,5 @@ de-Provence
 * 2006 : Diplôme de Master recherche, école MEGA de Lyon
 * 2006 : Diplôme d’ingénieur de l’INSA de Lyon
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 
