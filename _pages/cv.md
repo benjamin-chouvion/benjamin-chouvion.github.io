@@ -9,6 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
+Short Bio
+======
+* 2024 : Habilitation à diriger des recherches d'Aix-Marseille Université
+* depuis 2020 : Maître de conférences détaché à l’École de l’Air et de l’Espace, Salon-
+de-Provence
+* 2014 - 2020 : Maître de conférences à l’École Centrale de Lyon
+* 2013 - 2014 : Post-doctorant au LMA, Marseille
+* 2011 - 2013 : Ingénieur de recherche à Capsule, Marseille
+* 2010 - 2011 : Post-doctorant à l’Université de Nottingham, UK
+* 2010 : Diplôme de docteur de l’Université de Nottingham, UK
+* 2006 : Diplôme de Master recherche, école MEGA de Lyon
+* 2006 : Diplôme d’ingénieur de l’INSA de Lyon
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
@@ -32,33 +45,4 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
