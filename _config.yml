@@ -29,8 +29,8 @@ author:
   bio              : "Maître de conférences (HDR) en dynamique des structures"
   location         : "Salon-de-Provence"
   employer         : "Ecole de l'Air et de l'Espace"
-  uri              : "https://www.ecole-air-espace.fr/"
-  email            : "XXX@example.org" 
+  uri              : # "https://www.ecole-air-espace.fr/"
+  email            : "benjamin.chouvion@ecole-air.fr" 
 
   # Academic websites
   academia         : # URL
