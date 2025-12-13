@@ -1,6 +1,9 @@
-.page__content p {
+/* Justification du texte principal pour AcademicPages */
+.article-content p,
+.page__content p,
+.main-content p {
   text-align: justify;
-  hyphens: auto;
+  hyphens: auto;  /* césure automatique pour le français */
 }
 
 .footer__links {
