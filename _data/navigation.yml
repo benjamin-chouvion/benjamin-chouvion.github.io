@@ -9,8 +9,8 @@
 
 main:
   - title: "Mini-bio"
-    url: /cv/
-    
+    url: /mini-bio/
+   
   - title: "Publications"
     url: /publications/
 
@@ -31,6 +31,9 @@ main:
     
   # - title: "CV"
   #   url: /cv-json/
-    
+
+  - title: "CV"
+    url: /files/resume.pdf
+      
   - title: "Guide"
     url: /markdown/
