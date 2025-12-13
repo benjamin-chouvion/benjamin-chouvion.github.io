@@ -12,7 +12,7 @@ header:
   
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # Currently available options are "default", "air"
+site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Benjamin Chouvion"
 title_separator          : "-"
 name                     : &name "Benjamin Chouvion"
