@@ -20,8 +20,9 @@ main:
 #  - title: "Teaching"
 #    url: /teaching/    
 
-  - title: "Open Positions"
-  url: /openPosition/
+#  - title: "Open Positions" c'est moi qui l'ai fait
+#  url: /openPosition/
+  
   - title: "Portfolio"
     url: /portfolio/
         
