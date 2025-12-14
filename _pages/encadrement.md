@@ -35,7 +35,7 @@ kite de traction
   - Co-encadrant : Annie Leroy (EAE), Franck Renaud (SUPMECA) et Jean-Luc Dion (SUPMECA)
 
 <details>
-<summary><strong>Terminés</strong></summary>
+<summary>## Terminés</summary>
   
 ## Terminés
 
