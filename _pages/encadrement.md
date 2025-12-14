@@ -4,9 +4,9 @@ permalink: /encadrement/
 author_profile: true
 ---
 
-<!-- pour écrire un commentaire -->
+<!-- pour écrire un commentaire 
 Les personnes dont les noms sont <span style="color:#555;">grisés</span> ont terminés leur projet.
-{: .notice}
+{: .notice} -->
 
 ## En cours
 
@@ -33,16 +33,19 @@ kite de traction
   - Assimilation de mesures par caméras sur des modèles d’ailes en grands déplacements et grandes rotations
   - Financement : 50% AID / 50% ISAE-SUPMECA
   - Co-encadrant : Annie Leroy (EAE), Franck Renaud (SUPMECA) et Jean-Luc Dion (SUPMECA)
- 
+
+<details>
+<summary><strong>Terminés</strong></summary>
+  
 ## Terminés
 
-### Post-doctorants
+### Post-doctorant
 - Roberto Alcorta (2022-2023)
   - Maîtrise du flottement d’ailes très flexibles de drones par ajout d’amortisseurs non-linéaires
   - Financement AID, projet HALION
 
 ### Doctorants
-- Nicolas Duboël (2023-2025), _thèse arrêtée par le doctorant_
+- Nicolas Duboël (2023-2025) - _thèse arrêtée par le doctorant_
   - Développement d’outils de dimensionnement pour le comportement non-linéaire d’un kite de traction
   - Financement : BPI, projet KIWIN
   - Co-encadrant : Kostia Roncin (EAE), Loïc Darridon (Univ. Montpellier)
@@ -68,3 +71,5 @@ kite de traction
   - Co-encadrant : Fabrice Thouverez (ECL)
 
 ### Stagiaires Master
+
+</details>
