@@ -17,7 +17,6 @@ utilisation de volets non-linéaires
 kite de traction
   - Financement BPI, projet KIWIN
 
-
 <details>
   <summary><span style="color:#555;">Post-doctorants - projet terminé</span></summary>
 - Roberto Alcorta (2022-2023)
