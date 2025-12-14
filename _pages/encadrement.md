@@ -27,6 +27,11 @@ kite de traction
 **Watch out!** You can also add notices by appending `{: .notice}` to the line following paragraph.
 {: .notice}
 
+<details>
+  <summary>Collapsed by default</summary>
+  This section was collapsed by default!
+</details>
+
 ### Doctorants
 - Félix
 - Florian
