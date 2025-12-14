@@ -7,7 +7,8 @@ author_profile: true
 
 ### Septembre 2024
 ---
-![VIB1](/images/P1150963.JPG)  ![VIB2](/images/P1150959.JPG) 
+![VIB1](/images/P1150963.JPG){: style="width:49%; display:inline-block; margin-right:1%"}
+![VIB2](/images/P1150959.JPG){: style="width:49%; display:inline-block;"}
 Projet VIBINTER en collaboration avec le CEA et l'ONERA : Caractérisation des vibrations aux interfaces de structures embarquées. Réalisation du montage expérimental et essais en vol. 
 
 
@@ -20,9 +21,9 @@ Soutenance de mon HDR à l'École de l'Air et de l'Espace
 
 ### juin 2023
 ---
-![Projet Halion](/images/halion.jpg){: .align-right width="500px"}
+![Projet Halion](/images/halion.jpg){: .align-right width="600px"}
 
-Développement d'un simulateur de la dynamique post-flottement d'une aile très flexible.
+Projet HALION en collaboration avec l'ISAE-SUPAERO : Développement d'un simulateur de la dynamique post-flottement d'une aile très flexible.
 
 <br style="clear: right;">
 
