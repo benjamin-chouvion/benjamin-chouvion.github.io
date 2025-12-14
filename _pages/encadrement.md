@@ -34,8 +34,9 @@ kite de traction
   - Financement : 50% AID / 50% ISAE-SUPMECA
   - Co-encadrant : Annie Leroy (EAE), Franck Renaud (SUPMECA) et Jean-Luc Dion (SUPMECA)
 
-<details>
+<!-- <details>
 <summary>## Terminés</summary>
+</details> -->
   
 ## Terminés
 
@@ -71,5 +72,14 @@ kite de traction
   - Co-encadrant : Fabrice Thouverez (ECL)
 
 ### Stagiaires Master
+— Armelle Treguer (2025) : Modélisation des lignes de traction d’un cerf-volant
+— Ariane Bosq (2025) : Simulation éléments-finis d’un cerf-volant
+— Cécile Lorrillard (2025) : Contrôle passif de flottement d’ailes très flexibles de drone solaire
+— Pasiphaé Kerlau (2025) : Exploitation de mesures vibratoires en vol d’un système embarqué
+— Adrien Benoit (2024) : Conception d’un système embarqué sur avion pour mesures vibratoires en vol
+- Haitam Katif (2024) : Analyse de la bifurcation responsable du flottement de corps rigide
+— Tom Benion (2023) : Modélisation d’une voile de kite
+- Fabien Ferreira (2023) : Simulation d’un avion flexible - couplage entre dynamique de vol et aéroélasticité
+— Adrien Martin (2015) : Simulation en dynamique non-linéaire : application au cas des roues aubagées
 
-</details>
+
