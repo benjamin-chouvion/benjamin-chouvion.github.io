@@ -4,9 +4,10 @@ permalink: /encadrement/
 author_profile: true
 ---
 
-## En cours
+<!--Les personnes dont les noms sont <span style="color:#555;">grisés</span> ont terminés leur projet.
+{: .notice} -->
 
-### Post-doctorants
+## Post-doctorants
 - Kailash Dhital (2024-2026)
   - Développement de modèles pour le contrôle passif de flottement d’ailes très flexibles par
 utilisation de volets non-linéaires
@@ -15,21 +16,13 @@ utilisation de volets non-linéaires
   - Développement d’outils de dimensionnement pour le comportement non-linéaire d’un
 kite de traction
   - Financement BPI, projet KIWIN
-  - <span style="color:#555;">Texte en gris foncé</span>
-  - > texte secondaire
-  > Texte informatif
-  
-  > *sdfsdfs*
-  > **qsdfqdsf**
-  > 
 
-
-**Watch out!** You can also add notices by appending `{: .notice}` to the line following paragraph.
-{: .notice}
 
 <details>
-  <summary>Collapsed by default</summary>
-  This section was collapsed by default!
+  <summary><span style="color:#555;">Post-doctorants - projet terminé</span></summary>
+- Roberto Alcorta (2022-2023)
+  - Maîtrise du flottement d’ailes très flexibles de drones par ajout d’amortisseurs non-linéaires
+  - Financement AID, projet HALION
 </details>
 
 ### Doctorants
