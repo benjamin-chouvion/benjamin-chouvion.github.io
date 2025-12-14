@@ -6,6 +6,15 @@ author_profile: true
 ---
 
 ---
+## Septembre 2024
+
+<video width="640" height="360" controls>
+  <source src="/files/video.mp4" type="video/mp4">
+  Votre navigateur ne supporte pas la vidéo.
+</video>
+Projet VIBINTER en collaboration avec le CEA et l'ONERA
+
+---
 ## juillet 2024
 ![Soutenance](/images/photo_jury_soutenance.jpg){: .align-left width="300px"}
 Soutenance de mon HDR à l'École de l'Air et de l'Espace
