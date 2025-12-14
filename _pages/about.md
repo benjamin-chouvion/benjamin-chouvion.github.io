@@ -7,10 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-C'est là que je vais raconter ma vie
-
-
-A titre en gro
-======
-
-possible de mettre des emoji et des images
+en construction
