@@ -11,10 +11,21 @@ author_profile: true
   - Développement de modèles pour le contrôle passif de flottement d’ailes très flexibles par
 utilisation de volets non-linéaires
   - Financement AID, projet COFLAP 
-- Marguerite de La Bigne (2025-2027)
+- Marguerite De La Bigne (2025-2027)
   - Développement d’outils de dimensionnement pour le comportement non-linéaire d’un
 kite de traction
   - Financement BPI, projet KIWIN
+  - <span style="color:#555;">Texte en gris foncé</span>
+  - > texte secondaire
+  > Texte informatif
+  
+  > *sdfsdfs*
+  > **qsdfqdsf**
+  > 
+
+
+**Watch out!** You can also add notices by appending `{: .notice}` to the line following paragraph.
+{: .notice}
 
 ### Doctorants
 - Félix
