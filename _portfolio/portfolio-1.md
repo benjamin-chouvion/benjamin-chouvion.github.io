@@ -1,6 +1,6 @@
 ---
 title: "Projet HALION"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/halion.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/halion.jpg'>"
 collection: portfolio
 ---
 
