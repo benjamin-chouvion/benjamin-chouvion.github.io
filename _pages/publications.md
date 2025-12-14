@@ -12,7 +12,7 @@ Toutes mes publications scientifiques sont disponible en libre accès sur [HAL](
 - K. Dhital and B. Chouvion, “Passive Aeroelastic Control of a Near-Ground Airfoil With a Nonlinear Vibration Absorber” *Aerospace*, vol. 11, p. 1043, 2024, [doi: 10.3390/aerospace11121043](https://doi.org/10.3390/aerospace11121043)
 - J. Yuan, C. Gastaldi, E. Denimal Goy, and B. Chouvion, “Friction damping for turbomachinery: A comprehensive review of modelling, design strategies, and testing capabilities” *Progress in Aerospace Sciences*, vol. 147, p. 101018, 2024, [doi: 10.1016/j.paerosci.2024.101018](https://doi.org/10.1016/j.paerosci.2024.101018)
 
-## Dernières conférences (ou à venir)
+## Dernières conférences
 
 - V. Mahé, A. Mélot, C. Droz, and B. Chouvion, “Wave-based modelling of arbitrarily complex periodic waveguides with nonlinear boundaries,” Rennes, France: IOMAC, 2025.
 - V. Mahé, A. Mélot, B. Chouvion, and C. Droz, “Wave-based reduction of finite phononic structures with nonlinear boundary conditions,” Hoboken, New Jersey, USA: NODYCON, 2025.
@@ -21,5 +21,5 @@ Toutes mes publications scientifiques sont disponible en libre accès sur [HAL](
 - K. Dhital, B. Chouvion, and H. Jae-Hung, “Flow-induced vibration control of an airfoil using nonlinear tuned vibration absorber,” Amsterdam, Netherlands: ICSV, 2024.
 - V. Mahé, C. Droz, B. Chouvion, and A. Mélot, “Computing the dynamic response of a periodic structure coupled with a nonlinear junction using the harmonic balance method and Floquet-Bloch modelling,” Nantes, France: Internoise, 2024.
 - V. Mahé, A. Mélot, B. Chouvion, and C. Droz, “Computing the dynamics of periodic waveguides with nonlinear boundaries using the Wave Finite Element Method,” Lyon: Journées du GdR EX-MODELI, 2024.
-- F. Maetz, B. Chouvion, F. Renaud, J.-L. Dion, A. Leroy, and O. Montagnier, “Analyse expÃ©rimentale et numÃ©rique du flottement aéroélastique de structures élancées,” Paris: Journées des jeunes chercheurs en acoustique, vibration et bruit, 2024.
+- F. Maetz, B. Chouvion, F. Renaud, J.-L. Dion, A. Leroy, and O. Montagnier, “Analyse expérimentale et numérique du flottement aéroélastique de structures élancées,” Paris: Journées des jeunes chercheurs en acoustique, vibration et bruit, 2024.
 - J. Bernard-Lameau, J. Loustau-Laguide, K. Roncin, B. Chouvion, and L. Daridon, “Etude du sens de parcours sur une trajectoire en huit pour un kite de traction au vent arrière,” Nantes: Journées de l’Hydrodynamique, 2024.
