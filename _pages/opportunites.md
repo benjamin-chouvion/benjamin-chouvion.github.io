@@ -28,5 +28,4 @@ Sujet détaillé pas encore rédigé :stuck_out_tongue:
 - Offre de plusieurs mois (entre 6 et 12) dans le cadre du projet BPI KIWIN
   > Prise en compte des effets de mécanique non-linéaire dans la simulation de la dynamique du vol d'un kite
 
-Sujet détaillé pas encore rédigé non plus..., mais vous pouvez retrouvez plus d'informations sur l'[offre](/files/postdocEAE-KIWIN2025.pdf) du précédent postdoctorant travaillant sur le même projet.
 Le sujet détaillé n’a pas encore été rédigé non plus..., mais vous pouvez consulter davantage d’informations en vous référant à l’[offre](/files/postdocEAE-KIWIN2025.pdf) du post-doctorant travaillant actuellement sur ce projet.
