@@ -6,14 +6,14 @@ author_profile: true
 
 Il est fréquent que des opportunités de stage, de thèse ou de post-doctorat soient ouvertes au sein de mon équipe à l’École de l’Air et de l’Espace. N’hésitez pas à me contacter si vous êtes intéressé(e) par mes thématiques de recherche et leurs applications dans les domaines aéronautique et spatial.
 
-### Stage Master
+## Stage Master
 ---
 - Offre de stage pour l'année 2026 sur un projet en collaboration avec l'INRIA Paris
   > Prise en compte d'incertitudes dans la détection de la vitesse critique de flottement
 
 Plus de détails [ici](/files/sujet_stage_FLEXHALE_2026.pdf).
     
-### Contrat Postdoctoral
+## Contrat Postdoctoral
 ---
 - Offre de 12 mois dans le cadre du projet CARNOT MERS, en collaboration avec Centrale Nantes (poste basé à Nantes).
   > Limitation des Oscillations d’´eoliennes offshore au moyen d’un traCK NES
