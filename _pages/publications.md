@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Toutes mes publications scientifiques sont disponible en libre accès sur [HAL](https://cv.hal.science/benjamin-chouvion). Mon mémoire d'HDR est téléchargeable [ici](/[files/](https://hal.science/tel-04664503v1).
+Toutes mes publications scientifiques sont disponible en libre accès sur [HAL](https://cv.hal.science/benjamin-chouvion). Mon mémoire d'HDR est téléchargeable [ici](https://hal.science/tel-04664503v1).
 
 ## Dernières publications
 
