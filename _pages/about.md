@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "titre pages/about.md"
+title: "Accueil"
 author_profile: true
 redirect_from: 
   - /about/
