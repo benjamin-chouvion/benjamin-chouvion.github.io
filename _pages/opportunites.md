@@ -23,9 +23,10 @@ Plus de détails [ici](/files/LOCKNES.pdf).
  - Offre de 18 mois dans le cadre du projet ANR FLEXHALE, en collaboration avec l'INRIA (poste basé au CMAP à Paris).
   > Analyse de sensibilité et optimisation paramétrique robuste d’ailes hautement flexibles dans un contexte de comportement non linéaire complexe
 
-sujet détaillé pas encore rédigé :stuck_out_tongue:
+Sujet détaillé pas encore rédigé :stuck_out_tongue:
 
 - Offre de plusieurs mois (entre 6 et 12) dans le cadre du projet BPI KIWIN
   > Prise en compte des effets de mécanique non-linéaire dans la simulation de la dynamique du vol d'un kite
 
-sujet détaillé pas encore rédigé non plus :stuck_out_tongue:
+Sujet détaillé pas encore rédigé non plus..., mais vous pouvez retrouvez plus d'informations sur l'[offre](/files/postdocEAE-KIWIN2025.pdf) du précédent postdoctorant travaillant sur le même projet.
+Le sujet détaillé n’a pas encore été rédigé non plus..., mais vous pouvez consulter davantage d’informations en vous référant à l’[offre](/files/postdocEAE-KIWIN2025.pdf) du post-doctorant travaillant actuellement sur ce projet.
