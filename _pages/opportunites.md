@@ -13,7 +13,7 @@ Il est fréquent que des opportunités de stage, de thèse ou de post-doctorat s
 
 Plus de détails [ici](/files/sujet_stage_FLEXHALE_2026.pdf).
     
-### Sontrat Postdoctoral
+### Contrat Postdoctoral
 ---
 - Offre de 12 mois dans le cadre du projet CARNOT MERS, en collaboration avec Centrale Nantes (poste basé à Nantes).
   > Limitation des Oscillations d’´eoliennes offshore au moyen d’un traCK NES
@@ -25,7 +25,7 @@ Plus de détails [ici](/files/LOCKNES.pdf).
 
 sujet détaillé pas encore rédigé :stuck_out_tongue:
 
-- offre de plusieurs mois (entre 6 et 12) dans le cadre du projet BPI KIWIN
+- Offre de plusieurs mois (entre 6 et 12) dans le cadre du projet BPI KIWIN
   > Prise en compte des effets de mécanique non-linéaire dans la simulation de la dynamique du vol d'un kite
 
 sujet détaillé pas encore rédigé non plus :stuck_out_tongue:
