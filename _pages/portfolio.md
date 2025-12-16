@@ -38,7 +38,6 @@ Développement d'un simulateur de la dynamique post-flottement d'une aile très 
 
 ### titre 4
 ---
-rajouter FID?
 début ANR FLexHALE?
 projet KIWIN
 image flexhale supmeca mesures souffleries
