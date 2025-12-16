@@ -7,7 +7,7 @@ author_profile: true
 
 ### janvier 2025
 ---
-![essaiCoflap](/images/essaiCoflap.jpg){: .align-right width="400px"}
+![essaiCoflap](/images/essaiCoflap.png){: .align-right width="400px"}
 Réalisation d'essais de flottement d'une structure très flexible en soufflerie à l'EAE, avec mesure de la cinématique par caméras
 > Projets COFLAP et FLEXHALE, en collaboration avec l'ISAE-SUPMECA
 
@@ -33,7 +33,7 @@ Soutenance de mon HDR à l'École de l'Air et de l'Espace
 ---
 ![projet Halion](/images/halionfid.jpg){: style="width:45%; display:inline-block; margin-right:29%"} ![projet Halion](/images/halionfid2.jpg){: style="width:10%; display:inline-block;}
 
-Présentation du projet HALION au Forum Innovation Defense
+Présentation du projet HALION, sur le contrôle du flottement par absorbeur passif non-linéaire, au Forum Innovation Defense
 
 ### avril 2023
 ---
