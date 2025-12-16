@@ -7,16 +7,20 @@ author_profile: true
 
 ### janvier 2025
 ---
-![essaiCoflap](/images/essaiCoflap.png){: .align-right width="400px"}
+![essaiCoflap](/images/essaiCoflap.png){: .align-right width="450px"}
 Réalisation d'essais de flottement d'une structure très flexible en soufflerie à l'EAE, avec mesure de la cinématique par caméras
 > Projets COFLAP et FLEXHALE, en collaboration avec l'ISAE-SUPMECA
 
 <br style="clear: right;">
 
 
-### Septembre 2024
+### septembre 2024
 ---
-![VIB2](/images/P1150959.JPG){: style="width:45%; display:inline-block; margin-right:9%"} ![VIB1](/images/P1150963.JPG){: style="width:45%; display:inline-block;}
+<!-- ![VIB2](/images/P1150959.JPG){: style="width:45%; display:inline-block; margin-right:9%"} ![VIB1](/images/P1150963.JPG){: style="width:45%; display:inline-block;} -->
+<div style="display:flex; gap:9%;">
+  <img src="/images/P1150959.JPG" style="width:45%;" alt="VIB2">
+  <img src="/images/P1150963.JPG" style="width:45%;" alt="VIB1">
+</div>
 
 Caractérisation des vibrations aux interfaces de structures embarquées. Réalisation du montage expérimental et essais en vol
 > Projet VIBINTER en collaboration avec le CEA et l'ONERA
@@ -46,7 +50,5 @@ Développement d'un simulateur de la dynamique post-flottement d'une aile très 
 
 ### titre 4
 ---
-début ANR FLexHALE?
 projet KIWIN
-image flexhale supmeca mesures souffleries
 
