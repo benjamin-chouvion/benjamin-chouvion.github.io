@@ -9,8 +9,8 @@
 
 main:
 
-#  - title: "Accueil"
-#  url: /about/
+  - title: "Accueil"
+    url: /accueil/
   
   - title: "Mini-bio"
     url: /mini-bio/
