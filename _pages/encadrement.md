@@ -18,11 +18,9 @@ utilisation de volets non-linéaires
   - Financement AID, projet COFLAP
 <br style="clear: right;">
 - Marguerite De La Bigne (2025-2027)
-![marguerite](xx){: .align-right width="125px"}
   - Développement d’outils de dimensionnement pour le comportement non-linéaire d’un
 kite de traction
   - Financement BPI, projet KIWIN
-<br style="clear: right;">
 
 ### Doctorants
 - Félix Lavanchy (2025-2028)
