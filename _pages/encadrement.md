@@ -17,8 +17,8 @@ Les personnes dont les noms sont <span style="color:#555;">grisés</span> ont te
 utilisation de volets non-linéaires
   - Financement AID, projet COFLAP
 <br style="clear: right;">
-![marguerite](/images/people/cecile.png){: .align-right width="50px"}
 - Marguerite De La Bigne (2025-2027)
+![marguerite](/images/people/cecile.png){: .align-right width="120px"}
   - Développement d’outils de dimensionnement pour le comportement non-linéaire d’un
 kite de traction
   - Financement BPI, projet KIWIN
@@ -34,7 +34,7 @@ kite de traction
   - Financement : CIFRE AIRBUS
   - Co-encadrant : Olivier Montagnier (EAE)
 - Florian Maetz (2023-2026)
-![florian](/images/people/florian.png){: .align-right width="80px"}
+![florian](/images/people/florian.png){: .align-right width="125px"}
   - Assimilation de mesures par caméras sur des modèles d’ailes en grands déplacements et grandes rotations
   - Financement : 50% AID / 50% ISAE-SUPMECA
   - Co-encadrant : Annie Leroy (EAE), Franck Renaud (SUPMECA) et Jean-Luc Dion (SUPMECA)
@@ -48,24 +48,33 @@ kite de traction
 
 ### Post-doctorant
 - Roberto Alcorta (2022-2023)
-![roberto](/images/people/roberto.png){: .align-right width="60px"}
+![roberto](/images/people/roberto.png){: .align-right width="130px"}
   - Maîtrise du flottement d’ailes très flexibles de drones par ajout d’amortisseurs non-linéaires
   - Financement AID, projet HALION
 <br style="clear: right;">
 
 ### Doctorants
 - Nicolas Duboël (2023-2025) - _thèse arrêtée par le doctorant_
+![nicolas](/images/people/nicolasd.png){: .align-right width="125px"}
   - Développement d’outils de dimensionnement pour le comportement non-linéaire d’un kite de traction
   - Financement : BPI, projet KIWIN
   - Co-encadrant : Kostia Roncin (EAE), Loïc Darridon (Univ. Montpellier)
+<br style="clear: right;">
+
 - Nicolas Di Palma (2018-2022)
+![nicolas](/images/people/nicolasdp.png){: .align-right width="125px"}
   - Dynamique non linéaire des aubages : comportement multi-harmonique avec couplage torsion-flexion
   - Financement :  CIFRE SAFRAN AE
   - Co-encadrant : Fabrice Thouverez (ECL)
+<br style="clear: right;">
+
 - Samuel Quagebeur (2018-2021)
+![samuel](/images/people/samuel.png){: .align-right width="125px"}
   - Prévision de la réponse forcée de roues aubagées désaccordées en présence de non-linéarités de frottement
   - Financement : CIFRE SAFRAN HE
   - Co-encadrant : Fabrice Thouverez (ECL)
+<br style="clear: right;">
+
 - Zihan Shen (2016-2020)
   - Simulation et analyse de la dynamique non-linéaire des rotors à grande vitesse de rotation
   - Financement : CIFRE ANSYS
