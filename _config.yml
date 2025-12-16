@@ -27,7 +27,7 @@ repository               : "benjamin-chouvion.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "people/profile.png"
   name             : "Benjamin Chouvion"
   pronouns         : # example: "she/her"  
   bio              : "Maître de conférences (HDR) en dynamique des structures"
