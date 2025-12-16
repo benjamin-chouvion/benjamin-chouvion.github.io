@@ -11,7 +11,7 @@ author_profile: true
 Réalisation d'essais de flottement d'une structure très flexible en soufflerie à l'EAE, avec mesure de la cinématique par caméras
 > Projets COFLAP et FLEXHALE, en collaboration avec l'ISAE-SUPMECA
 
-<br style="clear: left;">
+<br style="clear: right;">
 
 
 ### Septembre 2024
