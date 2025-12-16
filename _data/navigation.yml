@@ -10,7 +10,7 @@
 main:
 
   - title: "Accueil"
-  url: /
+  url: /about/
   
   - title: "Mini-bio"
     url: /mini-bio/
