@@ -19,3 +19,4 @@ Mes principaux domaines d’intérêt scientifique incluent :
 - la modélisation et la simulation numérique de systèmes complexes
 
 Pour (beaucoup) plus de détails sur mes activités de recherche, vous pouvez jeter un coup d'oeil à mon mémoire d'HDR [📖](https://hal.science/tel-04664503v1).
+{: .notice}
