@@ -5,6 +5,15 @@ permalink: /portfolio/
 author_profile: true
 ---
 
+### janvier 2025
+---
+![essaiCoflap](/images/essaiCoflap.jpg){: .align-right width="400px"}
+Réalisation d'essais de flottement d'une structure très flexible en soufflerie à l'EAE, avec mesure de la cinématique par caméras
+> Projets COFLAP et FLEXHALE, en collaboration avec l'ISAE-SUPMECA
+
+<br style="clear: left;">
+
+
 ### Septembre 2024
 ---
 ![VIB2](/images/P1150959.JPG){: style="width:45%; display:inline-block; margin-right:9%"} ![VIB1](/images/P1150963.JPG){: style="width:45%; display:inline-block;}
