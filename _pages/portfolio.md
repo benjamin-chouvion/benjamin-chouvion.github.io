@@ -5,6 +5,8 @@ permalink: /portfolio/
 author_profile: true
 ---
 
+<!-- kiwin -->
+
 ### janvier 2025
 ---
 ![essaiCoflap](/images/essaiCoflap.png){: .align-right width="480px"}
@@ -51,8 +53,4 @@ Développement d'un simulateur de la dynamique post-flottement d'une aile très 
 > Projet HALION en collaboration avec l'ISAE-SUPAERO
 
 <br style="clear: right;">
-
-### titre 4
----
-projet KIWIN
 
