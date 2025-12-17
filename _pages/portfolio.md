@@ -45,7 +45,7 @@ Présentation du projet HALION, sur le contrôle du flottement par absorbeur pas
 
 ### avril 2023
 ---
-![Projet Halion](/images/halion.jpg){: .align-right width="600px"}
+![Projet Halion](/images/halion.png){: .align-right width="600px"}
 
 Développement d'un simulateur de la dynamique post-flottement d'une aile très flexible
 > Projet HALION en collaboration avec l'ISAE-SUPAERO
