@@ -20,7 +20,7 @@ de-Provence
 * 2006 : Diplôme de Master recherche, école MEGA de Lyon
 * 2006 : Diplôme d’ingénieur de l’INSA de Lyon
 
-Mon CV détaillé (plus ou moins à jour) peut-être téléchargé [ici](/files/2024_CV_HDR.pdf).
+<!-- Mon CV détaillé (plus ou moins à jour) peut-être téléchargé [ici](/files/2024_CV_HDR.pdf). -->
 
 
 
