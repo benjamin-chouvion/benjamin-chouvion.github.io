@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![EAE](/images/placedarmes.jpg){: .align-right width="350px"}
+![EAE](/images/EAE.png){: .align-right width="350px"}
 J’ai débuté mes fonctions d’enseignant-chercheur en tant que maître de conférences à l’École Centrale de Lyon en 2014, avant de rejoindre en détachement l’École de l’Air et de l’Espace en 2020. J’exerce actuellement mes activités de recherche au sein du Centre de recherche de l’École de l’Air et de l’Espace (CREA).
 Mes activités s’articulent autour de l’enseignement en sciences de l’ingénieur et de la recherche en mécanique, avec un intérêt particulier pour la dynamique des systèmes et ses applications en ingénierie. <br style="clear: right;">
 
