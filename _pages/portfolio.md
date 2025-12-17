@@ -8,7 +8,7 @@ author_profile: true
 ### janvier 2025
 ---
 ![essaiCoflap](/images/essaiCoflap.png){: .align-right width="480px"}
-Réalisation d'essais de flottement d'une structure très flexible en soufflerie à l'EAE, avec mesure de la cinématique par caméras
+Réalisation d'essais de flottement d'une structure très flexible dans la soufflerie de l'École de l'Air et de l'Espace - mesure de la cinématique par caméras
 > Projets COFLAP et FLEXHALE, en collaboration avec l'ISAE-SUPMECA
 
 <br style="clear: right;">
@@ -22,14 +22,14 @@ Réalisation d'essais de flottement d'une structure très flexible en soufflerie
   <img src="/images/P1150963.JPG" style="width:45%;" alt="VIB1">
 </div>
 
-Caractérisation des vibrations aux interfaces de structures embarquées. Réalisation du montage expérimental et essais en vol
+Caractérisation des vibrations aux interfaces de structures embarquées. Réalisation du montage expérimental et conduite des essais en vol sur le motoplaneur Busard, sur la base aérienne 701 de Salon-de-Provence
 > Projet VIBINTER en collaboration avec le CEA et l'ONERA
 
 
 ### juillet 2024
 ---
 ![Soutenance](/images/photo_jury_soutenance.jpg){: .align-left width="400px"}
-Soutenance de mon HDR à l'École de l'Air et de l'Espace
+Soutenance de mon HDR à l'École de l'Air et de l'Espace. Merci à tous les membres du jury 👍!
 
 <br style="clear: left;">
 
@@ -41,7 +41,7 @@ Soutenance de mon HDR à l'École de l'Air et de l'Espace
   <img src="/images/halionfid2.jpg" style="width:25%;" alt="halionfid2">
 </div>
 
-Présentation du projet HALION, sur le contrôle du flottement par absorbeur passif non-linéaire, au Forum Innovation Defense
+Présentation du projet HALION, sur le contrôle du flottement par absorbeur passif non-linéaire, au Forum Innovation Defense organisé par le Ministère des Armées.
 
 ### avril 2023
 ---
