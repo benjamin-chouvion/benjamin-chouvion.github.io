@@ -36,7 +36,7 @@ Soutenance de mon HDR à l'École de l'Air et de l'Espace. Merci à tous les mem
 ### novembre 2023
 ---
 <!-- ![projet Halion](/images/halionfid.jpg){: style="width:45%; display:inline-block; margin-right:29%"} ![projet Halion](/images/halionfid2.jpg){: style="width:10%; display:inline-block;} -->
-<div style="display:flex; justify-content: space-between;">
+<div style="display:flex; justify-content:center; gap:10%;">
   <img src="/images/halionfid.jpg" style="width:45%;" alt="halionfid">
   <img src="/images/halionfid2.jpg" style="width:25%;" alt="halionfid2">
 </div>
