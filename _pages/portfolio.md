@@ -43,7 +43,7 @@ Soutenance de mon HDR à l'École de l'Air et de l'Espace. Merci à tous les mem
 
 Présentation du projet HALION, sur le contrôle du flottement par absorbeur passif non-linéaire, au Forum Innovation Defense organisé par le Ministère des Armées.
 
-### avril 2023
+### février 2023
 ---
 ![Projet Halion](/images/halion.png){: .align-right width="600px"}
 
