@@ -33,7 +33,7 @@ author:
   bio              : "Maître de conférences (HDR) en dynamique des structures"
   location         : "Salon-de-Provence"
   employer         : "Ecole de l'Air et de l'Espace"
-  uri              : # "https://www.ecole-air-espace.fr/"
+  uri              : "https://cv.hal.science/benjamin-chouvion"
   email            : "benjamin.chouvion@ecole-air.fr" 
 
   # Academic websites
@@ -46,7 +46,7 @@ author:
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Benjamin-Chouvion"
+  researchgate     : # "https://www.researchgate.net/profile/Benjamin-Chouvion"
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=36157730000"
   zotero           : # URL
 
