@@ -39,8 +39,8 @@ Soutenance de mon HDR à l'École de l'Air et de l'Espace. Merci à tous les mem
 ---
 Extension de la WFEM pour prise en compte de non-linéarités localisées dans des structures périodiques [![DOI](/images/DOI_logo.svg){: style="height:1em; max-width:2.2em; vertical-align:baseline;"}](https://doi.org/10.1016/j.compstruc.2025.107778)
 
-![WFEM_NL](/images/WFNL2.png){: .align-right width="300px"}
-![WFEM_NL](/images/WFNL.png){: .align-left width="500px"}
+![WFEM_NL](/images/WFMNL2.png){: .align-right width="300px"}
+![WFEM_NL](/images/WFMNL.png){: .align-left width="500px"}
 <br style="clear: left;">
 <br style="clear: right;">
 
