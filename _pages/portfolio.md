@@ -39,7 +39,7 @@ Soutenance de mon HDR à l'École de l'Air et de l'Espace. Merci à tous les mem
 ---
 <div style="display:flex; justify-content:center; gap:10%; align-items:center;">
   <img src="/images/WFEMNL.png" style="width:55%;" alt="WFEM_NL">
-  <img src="/images/WFEMNL2.png" style="width:25%;" alt="WFEM_NL2">
+  <img src="/images/WFEMNL2.png" style="width:30%;" alt="WFEM_NL2">
 </div>
 Extension de la WFEM pour prise en compte de non-linéarités localisées dans des structures périodiques [![DOI](/images/DOI_logo.svg){: style="height:1em; max-width:2.2em; vertical-align:baseline;"}](https://doi.org/10.1016/j.compstruc.2025.107778)
 
@@ -61,4 +61,11 @@ Développement d'un simulateur de la dynamique post-flottement d'une aile très 
 > Postdoctorat Roberto Alcorta, en collaboration avec l'ISAE-SUPAERO
 
 <br style="clear: right;">
+
+### novembre 2018
+---
+<div style="display:flex; justify-content:center;">
+  <img src="/images/CNCMS.png" style="width:70%;" alt="CNCMS">
+</div>
+Réduction de modèles par sous-structuration utilisant des modes complexes non linéaires et une réduction des interfaces [![DOI](/images/DOI_logo.svg){: style="height:1em; max-width:2.2em; vertical-align:baseline;"}](https://doi.org/10.1016/j.compstruc.2018.05.005)
 
