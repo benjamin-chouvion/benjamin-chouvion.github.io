@@ -37,8 +37,7 @@ Soutenance de mon HDR à l'École de l'Air et de l'Espace. Merci à tous les mem
 
 ### avril 2024
 ---
-
-<div style="display:flex; justify-content:center; gap:10%;">
+<div style="display:flex; justify-content:center; gap:10%; align-items:center;">
   <img src="/images/WFEMNL.png" style="width:55%;" alt="WFEM_NL">
   <img src="/images/WFEMNL2.png" style="width:25%;" alt="WFEM_NL2">
 </div>
