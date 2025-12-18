@@ -74,7 +74,7 @@ Présentation du projet HALION, sur le contrôle du flottement par absorbeur pas
 </div>
 
 
-### décembre 2022
+### octobre 2022
 ---
 ![Projet Halion](/images/halion.png){: .align-right width="600px"}
 
