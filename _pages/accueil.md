@@ -15,8 +15,7 @@ Mes travaux de recherche visent à améliorer les performances et la sûreté de
 
 Mes principaux domaines d’intérêt scientifique incluent :
 - la dynamique des structures et des systèmes
-- les problèmes d'instabilités et les phénomènes non linéaires
-- l'aéroélasticité 
+- les problèmes d'instabilités aéroélastiques et les phénomènes non linéaires
 - la modélisation et la simulation numérique de systèmes complexes
 
 > Pour (beaucoup) plus de détails sur mes activités de recherche, vous pouvez jeter un coup d'oeil à mon mémoire d'HDR [📖](https://hal.science/tel-04664503v1).
