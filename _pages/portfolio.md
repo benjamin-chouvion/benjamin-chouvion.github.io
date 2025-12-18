@@ -57,17 +57,17 @@ Présentation du projet HALION, sur le contrôle du flottement par absorbeur pas
 ---
 <div style="display:flex; justify-content:center; align-items:flex-start; gap:1rem;">
 
-  <!-- Colonne des GIFs : largeur fixe -->
-  <div style="width:620px; display:flex; gap:0.5rem;">
+  <!-- Colonne des GIFs : 2 GIFs côte à côte -->
+  <div style="display:flex; gap:0.5rem; width:620px;">
     <img src="/images/sansNES.gif" alt="Anim 1" style="width:300px;">
     <img src="/images/avecNES.gif" alt="Anim 2" style="width:300px;">
   </div>
 
-  <!-- Colonne de texte : prend le reste -->
-  <div style="flex-grow:1; min-width:150px;">
+  <!-- Colonne de texte : prend le reste de l'espace -->
+  <div style="flex:1; min-width:150px;">
     <p>
       Ajout d'un absorbeur non-linéaire (type NES) pour contrôler les cycles limites post-flottement d'une aile flexible.
-      Le texte s’arrête avant la bordure de la colonne GIFs et n’empiète plus dessus.
+      Le texte s’arrête avant la colonne des GIFs et ne les recouvre plus.
     </p>
   </div>
 
@@ -85,11 +85,12 @@ Développement d'un simulateur de la dynamique post-flottement d'une aile très 
 
 ### septembre 2019
 ---
-<div style="display:flex; justify-content:center;">
-  <img src="/images/birotor.png" style="width:85%;" alt="birotor">
-</div>
-Prise en compte des effets non-linéaires sur un modèle bi-rotor couplé
+![birotor](/images/birotor.png){: .align-left width="600px"}
+
+Prise en compte des effets non-linéaires sur un modèle bi-rotor couplé par un roulement
 > Thèse Cécile Dumartineix, financée par Safran Aircraft Engines
+
+<br style="clear: left;">
 
 ### novembre 2018
 ---
