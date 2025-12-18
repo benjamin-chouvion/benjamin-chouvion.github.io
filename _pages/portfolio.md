@@ -96,5 +96,5 @@ Prise en compte des effets non-linéaires sur un modèle bi-rotor couplé
 <div style="display:flex; justify-content:center;">
   <img src="/images/CNCMS.png" style="width:85%;" alt="CNCMS">
 </div>
-Réduction de modèles par sous-structuration utilisant des modes complexes non linéaires et une réduction des interfaces [![DOI](/images/DOI_logo.svg){: style="height:1em; max-width:2.2em; vertical-align:baseline;"}](https://doi.org/10.1016/j.compstruc.2018.05.005)
+Réduction de modèles par sous-structuration utilisant des modes complexes non linéaires et une réduction des interfaces, appliquée aux structures cycliques désaccordées  [![DOI](/images/DOI_logo.svg){: style="height:1em; max-width:2.2em; vertical-align:baseline;"}](https://doi.org/10.1016/j.compstruc.2018.05.005)
 
