@@ -84,20 +84,12 @@ Développement d'un simulateur de la dynamique post-flottement d'une aile très 
 
 ### septembre 2019
 ---
-![birotor](/images/birotor.png){: .align-left width="600px"}
+![birotor](/images/birotor.png){: .align-right width="500px"}
 
 Prise en compte des effets non-linéaires sur un modèle bi-rotor couplé par un roulement
 > Thèse Cécile Dumartineix, financée par Safran Aircraft Engines
 
-<br style="clear: left;">
-
-<div style="display:flex; gap:1rem; border-left: 3px solid #ccc; padding-left:1rem; align-items:flex-start;">
-  <img src="/images/birotor.png" alt="birotor" style="width:300px; float:left;">
-  <div>
-    <p>Prise en compte des effets non-linéaires sur un modèle bi-rotor couplé par un roulement</p>
-    <p>Thèse Cécile</p>
-  </div>
-</div>
+<br style="clear: right;">
 
 ### novembre 2018
 ---
