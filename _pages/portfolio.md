@@ -58,20 +58,18 @@ Présentation du projet HALION, sur le contrôle du flottement par absorbeur pas
 <div style="display:flex; justify-content:center; align-items:flex-start; gap:1rem;">
 
   <!-- Colonne des GIFs -->
-  <div style="display:flex; flex-direction:column; gap:1rem;">
+  <div style="display:flex; flex-direction:column; gap:1rem; width:620px;">
     <div style="display:flex; gap:0.5rem;">
       <img src="/images/sansNES.gif" alt="Anim 1" style="width:300px;">
       <img src="/images/avecNES.gif" alt="Anim 2" style="width:300px;">
     </div>
-    <!-- Optionnel : texte sous les GIFs -->
-    <!-- <p style="text-align:center;">Texte sous GIFs</p> -->
   </div>
 
-  <!-- Texte à droite -->
-  <!--<div style="max-width:200px; margin-left:1rem;"> -->
-  <div style="margin-left:1rem;">
+  <!-- Colonne de texte -->
+  <div style="flex-grow:1; min-width:150px;">
     <p>
-      Ajout d'un absorbeur non-linéaire (type NES) pour contrôler les cycles limites post-flottement d'une aile flexible
+      Ajout d'un absorbeur non-linéaire (type NES) pour contrôler les cycles limites post-flottement d'une aile flexible.
+      Le texte occupe toute la largeur restante et s’arrête juste avant le bord droit.
     </p>
   </div>
 
