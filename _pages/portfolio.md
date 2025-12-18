@@ -11,7 +11,7 @@ author_profile: true
 ---
 ![essaiCoflap](/images/essaiCoflap.png){: .align-right width="480px"}
 Réalisation d'essais de flottement d'une structure très flexible dans la soufflerie de l'École de l'Air et de l'Espace - mesure de la cinématique par caméras
-> Projets COFLAP et FLEXHALE, en collaboration avec l'ISAE-SUPMECA
+> Thèse Florian Maetz, en collaboration avec l'ISAE-SUPMECA
 
 <br style="clear: right;">
 
@@ -25,7 +25,7 @@ Réalisation d'essais de flottement d'une structure très flexible dans la souff
 </div>
 
 Caractérisation des vibrations aux interfaces de structures embarquées. Réalisation du montage expérimental et conduite des essais en vol sur le motoplaneur Busard, sur la base aérienne 701 de Salon-de-Provence
-> Projet VIBINTER en collaboration avec le CEA et l'ONERA
+> Stage Adrien Benoit, en collaboration avec le CEA et l'ONERA
 
 
 ### juillet 2024
@@ -50,7 +50,7 @@ Présentation du projet HALION, sur le contrôle du flottement par absorbeur pas
 ![Projet Halion](/images/halion.png){: .align-right width="600px"}
 
 Développement d'un simulateur de la dynamique post-flottement d'une aile très flexible
-> Projet HALION en collaboration avec l'ISAE-SUPAERO
+> Postdoctorat Roberto Alcorta, en collaboration avec l'ISAE-SUPAERO
 
 <br style="clear: right;">
 
