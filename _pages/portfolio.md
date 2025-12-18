@@ -35,6 +35,16 @@ Soutenance de mon HDR à l'École de l'Air et de l'Espace. Merci à tous les mem
 
 <br style="clear: left;">
 
+### avril 2024
+---
+Extension de la WFEM pour prise en compte de non-linéarités localisées dans des structures périodiques [![DOI](/images/DOI_logo.svg){: style="height:1em; max-width:2.2em; vertical-align:baseline;"}](https://doi.org/10.1016/j.compstruc.2025.107778)
+
+![WFEM_NL](/images/WFNL2.png){: .align-right width="300px"}
+![WFEM_NL](/images/WFNL.png){: .align-left width="500px"}
+<br style="clear: left;">
+<br style="clear: right;">
+
+
 ### novembre 2023
 ---
 <!-- ![projet Halion](/images/halionfid.jpg){: style="width:45%; display:inline-block; margin-right:29%"} ![projet Halion](/images/halionfid2.jpg){: style="width:10%; display:inline-block;} -->
