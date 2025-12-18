@@ -53,7 +53,32 @@ Extension de la WFEM pour prise en compte de non-linéarités localisées dans d
 
 Présentation du projet HALION, sur le contrôle du flottement par absorbeur passif non-linéaire, au Forum Innovation Defense organisé par le Ministère des Armées.
 
-### février 2023
+### juin 2023
+---
+<div style="display:flex; justify-content:center; align-items:flex-start; gap:1rem;">
+
+  <!-- Colonne des GIFs -->
+  <div style="display:flex; flex-direction:column; gap:1rem;">
+    <div style="display:flex; gap:0.5rem;">
+      <img src="/images/sansNES.gif" alt="Anim 1" style="width:100px;">
+      <img src="/images/avecNES.gif" alt="Anim 2" style="width:100px;">
+    </div>
+    <!-- Optionnel : texte sous les GIFs -->
+    <!-- <p style="text-align:center;">Texte sous GIFs</p> -->
+  </div>
+
+  <!-- Texte à droite -->
+  <div style="max-width:200px; margin-left:1rem;">
+    <p>
+      Voici un exemple de texte aligné à droite des GIFs.  
+      Tu peux mettre plusieurs paragraphes ou des liens.
+    </p>
+  </div>
+
+</div>
+
+
+### décembre 2022
 ---
 ![Projet Halion](/images/halion.png){: .align-right width="600px"}
 
@@ -65,7 +90,7 @@ Développement d'un simulateur de la dynamique post-flottement d'une aile très 
 ### novembre 2018
 ---
 <div style="display:flex; justify-content:center;">
-  <img src="/images/CNCMS.png" style="width:70%;" alt="CNCMS">
+  <img src="/images/CNCMS.png" style="width:85%;" alt="CNCMS">
 </div>
 Réduction de modèles par sous-structuration utilisant des modes complexes non linéaires et une réduction des interfaces [![DOI](/images/DOI_logo.svg){: style="height:1em; max-width:2.2em; vertical-align:baseline;"}](https://doi.org/10.1016/j.compstruc.2018.05.005)
 
