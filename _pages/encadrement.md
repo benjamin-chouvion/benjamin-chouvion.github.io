@@ -31,6 +31,7 @@ kite de traction
 <br style="clear: right;">
 
 - Paul Pinel de Golleville (2025-2028)
+![paul](/images/people/paul.png){: .align-right width="125px"}
   - Contribution à la modélisation des couplages aeroélastiques rotor structure en application à l’hélicoptère
   - Financement : CIFRE AIRBUS
   - Co-encadrant : Olivier Montagnier (EAE)
