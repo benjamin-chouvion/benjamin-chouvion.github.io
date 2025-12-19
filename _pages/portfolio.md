@@ -83,6 +83,7 @@ Développement d'un simulateur de la dynamique post-flottement d'une aile très 
 <br style="clear: right;">
 
 ### novembre 2021
+---
 <div style="display:flex; justify-content:center; gap:10%;">
   <img src="/images/resoInter2.png" style="width:45%;" alt="resoInter">
   <img src="/images/resoInter.png" style="width:35%;" alt="resoInter2">
