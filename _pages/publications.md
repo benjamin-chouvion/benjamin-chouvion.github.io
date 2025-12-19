@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Toutes mes publications scientifiques sont disponible en libre accès sur 
+Toutes mes publications scientifiques sont disponibles en libre accès sur 
 <a href="https://cv.hal.science/benjamin-chouvion"
    target="_blank"
    rel="noopener noreferrer">
