@@ -26,3 +26,13 @@ img.hal-icon {
   margin: 0;
   padding: 0;
 }
+
+a .hal-icon {
+  text-decoration: none; /* supprime le soulignement des icônes DOI/ORCID/etc. */
+}
+a .doi-icon {
+  text-decoration: none; /* supprime le soulignement des icônes DOI/ORCID/etc. */
+}
+a img {
+  text-decoration: none;  /* désactive le soulignement sur les images cliquables */
+}
