@@ -11,16 +11,17 @@ Les personnes dont les noms sont <span style="color:#555;">grisés</span> ont te
 ## En cours
 
 ### Post-doctorants
-![kailash](/images/people/kailash.png){: .align-right width="125px"}
-- Kailash Dhital (2024-2026)
-  - Développement de modèles pour le contrôle passif de flottement d’ailes très flexibles par
-utilisation de volets non-linéaires
-  - Financement AID, projet COFLAP
-<br style="clear: right;">
 - Marguerite De La Bigne (2025-2027)
   - Développement d’outils de dimensionnement pour le comportement non-linéaire d’un
 kite de traction
   - Financement BPI, projet KIWIN
+
+- Kailash Dhital (2024-2026)
+![kailash](/images/people/kailash.png){: .align-right width="125px"}
+  - Développement de modèles pour le contrôle passif de flottement d’ailes très flexibles par
+utilisation de volets non-linéaires
+  - Financement AID, projet COFLAP
+<br style="clear: right;">
 
 ### Doctorants
 - Félix Lavanchy (2025-2028)
