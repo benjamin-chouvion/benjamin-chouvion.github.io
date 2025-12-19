@@ -3,14 +3,11 @@ img.doi-icon {
   width: auto !important;
   max-width: none !important;
 
-  display: inline-block;
-  vertical-align: baseline;
+  display: inline-block !important;
+  vertical-align: text-bottom !important;
 
-  margin: 0;
-  padding: 0;
-
-  position: relative;
-  top: -0.15em;
+  margin: 0 !important;
+  padding: 0 !important;
 }
 
 
@@ -19,14 +16,12 @@ img.hal-icon {
   width: auto !important;
   max-width: none !important;
 
-  display: inline-block;
-  vertical-align: baseline;
+  display: inline-block !important; 
+  vertical-align: sub !important;
 
-  margin: 0;
-  padding: 0;
+  margin: 0 !important;
+  padding: 0 !important;
 
-  position: relative;
-  top: 1em;
 }
 
 a {
@@ -34,13 +29,14 @@ a {
 }
 
 a .hal-icon {
-  text-decoration: none; /* supprime le soulignement des icônes DOI/ORCID/etc. */
+  text-decoration: none !important; /* supprime le soulignement des icônes DOI/ORCID/etc. */
 }
 a .doi-icon {
-  text-decoration: none; /* supprime le soulignement des icônes DOI/ORCID/etc. */
+  text-decoration: none !important; /* supprime le soulignement des icônes DOI/ORCID/etc. */
 }
 a img {
-  text-decoration: none;  /* désactive le soulignement sur les images cliquables */
+  text-decoration: none !important;  /* désactive le soulignement sur les images cliquables */
+  border-bottom: none !important;     /* certains thèmes ajoutent un border-bottom */
 }
 
 /* Justification du texte principal */
