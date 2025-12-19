@@ -9,3 +9,7 @@ img.doi-icon {
   margin: 0;
   padding: 0;
 }
+
+img {
+  border: 5px solid red !important;
+}
