@@ -41,7 +41,8 @@ Soutenance de mon HDR à l'École de l'Air et de l'Espace. Merci à tous les mem
   <img src="/images/WFEMNL.png" style="width:55%;" alt="WFEM_NL">
   <img src="/images/WFEMNL2.png" style="width:30%;" alt="WFEM_NL2">
 </div>
-Extension de la WFEM pour prise en compte de non-linéarités localisées dans des structures périodiques [![DOI](/images/DOI_logo.svg){: style="height:1em; max-width:2.2em; vertical-align:baseline;"}](https://doi.org/10.1016/j.compstruc.2025.107778)
+Extension de la WFEM pour prise en compte de non-linéarités localisées dans des structures périodiques {% include doi-icon.html url="https://doi.org/10.1016/j.compstruc.2025.107778" %}
+
 
 ### novembre 2023
 ---
@@ -88,14 +89,7 @@ Développement d'un simulateur de la dynamique post-flottement d'une aile très 
   <img src="/images/resoInter2.png" style="width:45%;" alt="resoInter">
   <img src="/images/resoInter.png" style="width:35%;" alt="resoInter2">
 </div>
-Étude et exploitation des résonances internes au sein de structures cycliques à pales élancées pour le contrôle des vibrations [![DOI](/images/DOI_logo.svg){: style="height:1em; max-width:2.2em; vertical-align:baseline;"}](https://doi.org/10.1016/j.ijnonlinmec.2022.103941)  [![DOI](/images/DOI_logo.svg){: style="height:1em; max-width:2.2em; vertical-align:baseline;"}](https://doi.org/10.1016/j.ymssp.2022.109232)
-
-TEST si je mets le doi à la fin de cette ligne
-<a href="https://doi.org/10.1016/j.compstruc.2025.107778"
-   target="_blank"
-   rel="noopener noreferrer">
-  <img src="/images/DOI_logo.svg" class="doi-icon" alt="DOI">
-</a>
+Étude et exploitation des résonances internes au sein de structures cycliques à pales élancées pour le contrôle des vibrations {% include doi-icon.html url="https://doi.org/10.1016/j.ijnonlinmec.2022.103941" %} {% include doi-icon.html url="https://doi.org/10.1016/j.ymssp.2022.109232" %} 
 
 > Thèses Nicolas Di Palma et Samuel Quaegebeur, financées par Safran
 
