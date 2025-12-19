@@ -42,3 +42,13 @@ a .doi-icon {
 a img {
   text-decoration: none;  /* désactive le soulignement sur les images cliquables */
 }
+
+/* Justification du texte principal
+.article-content p,
+.page__content p,
+.main-content p {
+  text-align: justify;
+  hyphens: auto;
+  line-height: 1.7;
+  margin-bottom: 1.2em;
+}
