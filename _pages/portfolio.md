@@ -89,7 +89,8 @@ Développement d'un simulateur de la dynamique post-flottement d'une aile très 
   <img src="/images/resoInter2.png" style="width:45%;" alt="resoInter">
   <img src="/images/resoInter.png" style="width:35%;" alt="resoInter2">
 </div>
-Étude et exploitation des résonances internes au sein de structures cycliques à pales élancées pour le contrôle des vibrations {% include doi-icon.html url="https://doi.org/10.1016/j.ijnonlinmec.2022.103941" %} {% include doi-icon.html url="https://doi.org/10.1016/j.ymssp.2022.109232" %} 
+Étude et exploitation des résonances internes au sein de structures cycliques à pales élancées pour le contrôle des vibrations {% include doi-icon.html url="https://doi.org/10.1016/j.ijnonlinmec.2022.103941" %}
+{% include doi-icon.html url="https://doi.org/10.1016/j.ymssp.2022.109232" %} 
 
 > Thèses Nicolas Di Palma et Samuel Quaegebeur, financées par Safran
 
