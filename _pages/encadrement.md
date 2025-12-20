@@ -38,6 +38,7 @@ utilisation de volets non-linéaires
   - Contribution à la modélisation des couplages aeroélastiques rotor structure en application à l’hélicoptère
   - Financement : CIFRE AIRBUS
   - Co-encadrant : Olivier Montagnier (EAE)
+<br style="clear: right;">
 
 - Florian Maetz (2023-2026)
 ![florian](/images/people/florian.png){: .align-right width="125px"}
