@@ -11,7 +11,7 @@ Les personnes dont les noms sont <span style="color:#555;">grisés</span> ont te
 ## En cours
 
 ### Post-doctorants
-- Marguerite de La Bigne (2025-2027)
+- **Marguerite de La Bigne** (2025-2027)
 ![marguerite](/images/people/marguerite.png){: .align-right width="125px"}
   - Développement d’outils de dimensionnement pour le comportement non-linéaire d’un
 kite de traction
