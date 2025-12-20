@@ -8,9 +8,9 @@ author_profile: true
 Les personnes dont les noms sont <span style="color:#555;">grisés</span> ont terminés leur projet.
 {: .notice} -->
 
-## En cours
+# En cours
 
-### Post-doctorants
+## Post-doctorants
 - **Marguerite de La Bigne** (2025-2027)
 ![marguerite](/images/people/marguerite.png){: .align-right width="125px"}
   - Développement d’outils de dimensionnement pour le comportement non-linéaire d’un
