@@ -11,14 +11,14 @@ Les personnes dont les noms sont <span style="color:#555;">grisés</span> ont te
 ## En cours
 
 ### Post-doctorants
-- **Marguerite de La Bigne** (2025-2027)
+- **Marguerite de La Bigne** (24 mois, 2025-2027)
 ![marguerite](/images/people/marguerite.png){: .align-right width="125px"}
   - Développement d’outils de dimensionnement pour le comportement non-linéaire d’un
 kite de traction
   - Financement BPI, projet KIWIN
 <br style="clear: right;">
 
-- **Kailash Dhital** (2024-2026)
+- **Kailash Dhital** (27 mois, 2024-2026)
 ![kailash](/images/people/kailash.png){: .align-right width="125px"}
   - Développement de modèles pour le contrôle passif de flottement d’ailes très flexibles par
 utilisation de volets non-linéaires
@@ -54,10 +54,11 @@ utilisation de volets non-linéaires
 ## Terminés
 
 ### Post-doctorant
-- **Roberto Alcorta** (2022-2023)
+- **Roberto Alcorta** (18 mois, 2022-2023)
 ![roberto](/images/people/roberto.png){: .align-right width="125px"}
   - Maîtrise du flottement d’ailes très flexibles de drones par ajout d’amortisseurs non-linéaires
-  - Financement AID, projet HALION
+  - Financement : AID, projet HALION
+  - Devenir : Maître de conférences, INSA de Lyon
 <br style="clear: right;">
 
 ### Doctorants
@@ -66,6 +67,7 @@ utilisation de volets non-linéaires
   - Développement d’outils de dimensionnement pour le comportement non-linéaire d’un kite de traction
   - Financement : BPI, projet KIWIN
   - Co-encadrant : Kostia Roncin (EAE), Loïc Darridon (Univ. Montpellier)
+  - Devenir : Ingénieur calcul, Capgemini Engineering
 <br style="clear: right;">
 
 - **Nicolas Di Palma** (2018-2022)
@@ -73,6 +75,7 @@ utilisation de volets non-linéaires
   - Dynamique non linéaire des aubages : comportement multi-harmonique avec couplage torsion-flexion
   - Financement :  CIFRE SAFRAN AE
   - Co-encadrant : Fabrice Thouverez (ECL)
+  - Devenir : Ingénieur de recherche, Framatome
 <br style="clear: right;">
 
 - **Samuel Quagebeur** (2018-2021)
@@ -80,6 +83,7 @@ utilisation de volets non-linéaires
   - Prévision de la réponse forcée de roues aubagées désaccordées en présence de non-linéarités de frottement
   - Financement : CIFRE SAFRAN HE
   - Co-encadrant : Fabrice Thouverez (ECL)
+  - Devenir : Chaire de Professeur Junior, ECL
 <br style="clear: right;">
 
 - **Zihan Shen** (2016-2020)
@@ -87,6 +91,7 @@ utilisation de volets non-linéaires
   - Simulation et analyse de la dynamique non-linéaire des rotors à grande vitesse de rotation
   - Financement : CIFRE ANSYS
   - Co-encadrant : Fabrice Thouverez (ECL)
+  - Devenir : Ingénieur de recherche, ESI France
 <br style="clear: right;">
 
 - **Cécile Dumartineix** (2016-2019)
@@ -94,6 +99,7 @@ utilisation de volets non-linéaires
   - Modélisation et étude de la dynamique complexe d’un système bi-rotor aubagé couplé
   - Financement : CIFRE SAFRAN AE
   - Co-encadrant : Fabrice Thouverez (ECL)
+  - Devenir : Ingénieur méthodes, SAFRAN AE
 <br style="clear: right;">
 
 - **Colas Joannin** (2014-2017)
@@ -101,6 +107,7 @@ utilisation de volets non-linéaires
   - Réduction de modèle par sous-structuration et modes non-linéaires : Application à la dynamique des roues aubagées
   - Finanement : CIFRE SAFRAN HE
   - Co-encadrant : Fabrice Thouverez (ECL)
+  - Devenir : Responsable groupe Applications, COMSOL France
 <br style="clear: right;">
 
 ### Stagiaires Master
