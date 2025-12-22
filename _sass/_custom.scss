@@ -1,13 +1,16 @@
-/* pour tester */
+/* pour tester bonne prise en compte (impose toutes les images encadrées en rouge)
 img {
   border: 5px solid red !important;
 }
+*/
 
+/* change le gras en un peu moins gras */
 .page__content p strong,
 .page__content li strong {
   font-weight: 550 !important;
 }
 
+/* cree des icones doi et hal avec une taille standard et alignés au texte */
 img.doi-icon {
   height: 1em !important;
   width: auto !important;
@@ -34,6 +37,7 @@ img.hal-icon {
 
 }
 
+/* pour virer le soulignement des url (pas sûr que ça marche bien) */
 a {
   text-decoration: none;
 }
