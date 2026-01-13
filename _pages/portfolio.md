@@ -13,28 +13,6 @@ Simulation de la dynamique du vol d’un kite : la trajectoire est pilotée en a
 
 <br style="clear: right;">
 
-
-
-<!--
-<div style="display:flex; justify-content:center; align-items:flex-start; gap:1rem;">
-
-  <!-- Colonne de texte : prend le reste de l'espace -->
-  <div style="flex:1; gap:0.5rem; min-width:150px;">
-    <p>
-Simulation de la dynamique du vol d’un kite : la trajectoire est pilotée en agissant sur les lignes d’attache, dont les effets non-linéaires géométriques influencent le comportement
-    </p>
-  </div>
-> Postdoctorat Marguerite de La Bigne
-
-    <!-- Colonne GIF  -->
-  <div style="display:flex; width:550px;">
-    <img src="/images/animation_kiwin.gif" alt="Anim 1" style="width:540px;">
-  </div>
-
-</div> -->
-
-
-
 ### janvier 2025
 ---
 ![essaiCoflap](/images/essaiCoflap.png){: .align-right width="480px"}
