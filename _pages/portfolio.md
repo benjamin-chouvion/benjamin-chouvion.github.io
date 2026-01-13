@@ -16,8 +16,8 @@ Simulation de la dynamique de vol d'un kite et de ses lignes d'attaches en grand
 <div style="display:flex; justify-content:center; align-items:flex-start; gap:1rem;">
 
   <!-- Colonne GIF  -->
-  <div style="display:flex; gap:0.5rem; width:420px;">
-    <img src="/images/animation_kiwin.gif" alt="Anim 1" style="width:410px;">
+  <div style="display:flex; gap:0.5rem; width:520px;">
+    <img src="/images/animation_kiwin.gif" alt="Anim 1" style="width:510px;">
   </div>
 
   <!-- Colonne de texte : prend le reste de l'espace -->
