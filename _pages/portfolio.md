@@ -8,23 +8,23 @@ author_profile: true
 ### décembre 2025
 ---
 <!-- <img src="/images/animation_kiwin.gif" alt="Anim 1" style="width:300px;">
-Simulation de la dynamique de vol d'un kite et de ses lignes d'attaches en grand déplacement
+Simulation de la dynamique du vol d’un kite : la trajectoire est pilotée en agissant sur les lignes d’attache, dont les effets non-linéaires géométriques influencent le comportement
 > Postdoctorat Marguerite de La Bigne
 
 <br style="clear: right;"> -->
 
 <div style="display:flex; justify-content:center; align-items:flex-start; gap:1rem;">
 
-  <!-- Colonne GIF  -->
-  <div style="display:flex; gap:0.5rem; width:520px;">
-    <img src="/images/animation_kiwin.gif" alt="Anim 1" style="width:510px;">
+  <!-- Colonne de texte : prend le reste de l'espace -->
+  <div style="flex:1; gap:0.5rem; min-width:150px;">
+    <p>
+Simulation de la dynamique du vol d’un kite : la trajectoire est pilotée en agissant sur les lignes d’attache, dont les effets non-linéaires géométriques influencent le comportement
+    </p>
   </div>
 
-  <!-- Colonne de texte : prend le reste de l'espace -->
-  <div style="flex:1; min-width:150px;">
-    <p>
-      Simulation de la dynamique de vol d'un kite et de ses lignes d'attaches en grand déplacement
-    </p>
+    <!-- Colonne GIF  -->
+  <div style="display:flex; width:520px;">
+    <img src="/images/animation_kiwin.gif" alt="Anim 1" style="width:510px;">
   </div>
 
 </div>
