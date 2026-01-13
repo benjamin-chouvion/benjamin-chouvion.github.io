@@ -7,18 +7,17 @@ author_profile: true
 
 ### décembre 2025
 ---
-<img src="/images/animation_kiwin.gif" alt="Anim 1" style="width:300px;">
+<!-- <img src="/images/animation_kiwin.gif" alt="Anim 1" style="width:300px;">
 Simulation de la dynamique de vol d'un kite et de ses lignes d'attaches en grand déplacement
 > Postdoctorat Marguerite de La Bigne
 
-<br style="clear: right;">
+<br style="clear: right;"> -->
 
----
 <div style="display:flex; justify-content:center; align-items:flex-start; gap:1rem;">
 
-  <!-- Colonne des GIFs : 2 GIFs côte à côte -->
+  <!-- Colonne GIF  -->
   <div style="display:flex; gap:0.5rem; width:420px;">
-    <img src="/images/animation_kiwin.gif" alt="Anim 1" style="width4100px;">
+    <img src="/images/animation_kiwin.gif" alt="Anim 1" style="width:410px;">
   </div>
 
   <!-- Colonne de texte : prend le reste de l'espace -->
