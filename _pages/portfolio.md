@@ -13,6 +13,25 @@ Simulation de la dynamique de vol d'un kite et de ses lignes d'attaches en grand
 
 <br style="clear: right;">
 
+---
+<div style="display:flex; justify-content:center; align-items:flex-start; gap:1rem;">
+
+  <!-- Colonne des GIFs : 2 GIFs côte à côte -->
+  <div style="display:flex; gap:0.5rem; width:420px;">
+    <img src="/images/animation_kiwin.gif" alt="Anim 1" style="width4100px;">
+  </div>
+
+  <!-- Colonne de texte : prend le reste de l'espace -->
+  <div style="flex:1; min-width:150px;">
+    <p>
+      Simulation de la dynamique de vol d'un kite et de ses lignes d'attaches en grand déplacement
+    </p>
+  </div>
+
+</div>
+> Postdoctorat Marguerite de La Bigne
+
+
 
 ### janvier 2025
 ---
