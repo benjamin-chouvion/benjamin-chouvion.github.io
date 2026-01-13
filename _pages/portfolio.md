@@ -5,7 +5,14 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-<!-- kiwin -->
+### décembre 2025
+---
+<img src="/images/animation_kiwin.gif" alt="Anim 1" style="width:300px;">
+Simulation de la dynamique de vol d'un kite et de ses lignes d'attaches en grand déplacement
+> Postdoctorat Marguerite de La Bigne
+
+<br style="clear: right;">
+
 
 ### janvier 2025
 ---
