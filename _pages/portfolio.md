@@ -9,6 +9,7 @@ author_profile: true
 ---
 ![animKIWIN](/images/animation_kiwin.gif){: .align-right width="560px"}
 Simulation du vol d’un kite piloté par la commande des lignes d’attache, avec prise en compte des effets géométriques non-linéaires
+> Postdoctorat Marguerite de La Bigne
 
 <br style="clear: right;">
 
