@@ -8,8 +8,7 @@ author_profile: true
 ### décembre 2025
 ---
 ![animKIWIN](/images/animation_kiwin.gif){: .align-right width="560px"}
-Simulation de la dynamique du vol d’un kite : la trajectoire est pilotée en agissant sur les lignes d’attache, dont les effets non-linéaires géométriques influencent le comportement
-> Postdoctorat Marguerite de La Bigne
+Simulation du vol d’un kite piloté par la commande des lignes d’attache, avec prise en compte des effets géométriques non-linéaires
 
 <br style="clear: right;">
 
