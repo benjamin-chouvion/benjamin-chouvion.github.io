@@ -15,7 +15,7 @@ Simulation de la dynamique du vol d’un kite piloté par la commande des lignes
 
 ### octobre 2025
 ---
-![coflap](/images/coflap.png){: .align-center width="650px"}
+![coflap](/images/coflap.png){: .align-center width="750px"}
 Atténuation des vibrations induites par une instabilité de flottement grâce à l’ajout d’un volet non linéaire - simulations aéroélastiques réalisées à l’École de l'Air et de l'Espace ; conception, fabrication et essais expérimentaux menés par notre partenaire
 > Postdoctorat Kailash Dhital, en collaboration avec l'ISAE-SUPAERO
 
