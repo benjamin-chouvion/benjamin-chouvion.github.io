@@ -13,6 +13,11 @@ Simulation de la dynamique du vol d’un kite piloté par la commande des lignes
 
 <br style="clear: right;">
 
+### octobre 2025
+---
+![coflap](/images/coflap.png){: .align-right width="600px"}
+
+
 ### janvier 2025
 ---
 ![essaiCoflap](/images/essaiCoflap.png){: .align-right width="480px"}
