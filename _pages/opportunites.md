@@ -12,20 +12,20 @@ Il est fréquent que des opportunités de stage, de thèse ou de post-doctorat s
 
 Plus de détails sur l'offre [ici](/files/theseEAELMA.pdf)
 
-    <!--
-## Contrat Postdoctoral
-- Offre de 12 mois dans le cadre du projet CARNOT MERS :wind_chime:, en collaboration avec Centrale Nantes (poste basé à Nantes).
+  
+  <!-- - Offre de 12 mois dans le cadre du projet CARNOT MERS :wind_chime:, en collaboration avec Centrale Nantes (poste basé à Nantes).
   > ➡️ Limitation des Oscillations d’´eoliennes offshore au moyen d’un traCK NES
   
 Plus de détails [ici](/files/LOCKNES.pdf). -->
+
+## Contrat Postdoctoral
 
  - Offre de 18 mois dans le cadre du projet ANR FLEXHALE ✈️, en collaboration avec l'INRIA (poste basé au CMAP à Paris).
   > ➡️ Analyse de sensibilité et optimisation paramétrique robuste d’ailes hautement flexibles dans un contexte de comportement non linéaire complexe
 
 Sujet détaillé pas encore rédigé...
 
-<!--
-- Offre de plusieurs mois (entre 6 et 12) dans le cadre du projet BPI KIWIN 🪁 
+<!-- - Offre de plusieurs mois (entre 6 et 12) dans le cadre du projet BPI KIWIN 🪁 
   > ➡️ Prise en compte des effets de mécanique non-linéaire dans la simulation de la dynamique du vol d'un kite
 
 Le sujet détaillé n’a pas encore été rédigé non plus..., mais vous pouvez consulter davantage d’informations en vous référant à l’[offre](/files/postdocEAE-KIWIN2025.pdf) du post-doctorant travaillant actuellement sur ce projet. -->
