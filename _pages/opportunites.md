@@ -12,12 +12,6 @@ Il est fréquent que des opportunités de stage, de thèse ou de post-doctorat s
 
 Plus de détails sur l'offre [ici](/files/theseEAELMA.pdf)
 
-  
-  <!-- - Offre de 12 mois dans le cadre du projet CARNOT MERS :wind_chime:, en collaboration avec Centrale Nantes (poste basé à Nantes).
-  > ➡️ Limitation des Oscillations d’´eoliennes offshore au moyen d’un traCK NES
-  
-Plus de détails [ici](/files/LOCKNES.pdf). -->
-
 ## Contrat Postdoctoral
 
  - Offre de 18 mois dans le cadre du projet ANR FLEXHALE ✈️, en collaboration avec l'INRIA (poste basé au CMAP à Paris).
