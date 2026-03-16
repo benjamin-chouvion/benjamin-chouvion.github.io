@@ -5,6 +5,14 @@ permalink: /portfolio/
 author_profile: true
 ---
 
+### mars 2026
+---
+![animRotor](/images/AH_rotor.gif){: .align-right width="560px"}
+Modèle simplifié d’hélicoptère tripale illustrant la résonance sol due au couplage entre la précession de la structure et le mode de traînée des pales.
+> Thèse Paul Pinel de Golleville, financée par Airbus Helicopters
+
+<br style="clear: right;">
+
 ### décembre 2025
 ---
 ![animKIWIN](/images/animation_kiwin.gif){: .align-right width="560px"}
