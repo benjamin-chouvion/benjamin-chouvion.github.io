@@ -14,6 +14,11 @@ Plus de détails sur l'offre [ici](/files/theseEAELMA.pdf)
 
 ## Contrat Postdoctoral
 
+ - Offre de 18 mois au sein de projet financé par l'AID, en collaboration avec l'ISAE-SUPAERO.
+   > ➡️ Modélisation avancée des phénomènes vibratoires dans les structures déployables de satellites
+
+ Plus de détails [ici](/files/sujet_postdoc_CRESAT.pdf).
+
  - Offre de 18 mois dans le cadre du projet ANR FLEXHALE ✈️, en collaboration avec l'INRIA (poste basé au CMAP à Paris).
   > ➡️ Analyse de sensibilité et optimisation paramétrique robuste d’ailes hautement flexibles dans un contexte de comportement non linéaire complexe
 
