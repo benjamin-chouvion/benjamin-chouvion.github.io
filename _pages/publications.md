@@ -16,6 +16,8 @@ Toutes mes publications scientifiques sont disponibles en libre accès sur
 
 ## Dernières publications
 
+- N. Razaaly and B. Chouvion, "Quantile-based reliability-constrained optimization of a nonlinear absorber for passive aeroelastic control under aleatory uncertainty", *Structural and Multidisciplinary Optimization*, vol. 69, p. 227, 2026 <span style="display:inline-flex; gap:0.3em; align-items:center;"> {% include hal-icon.html url="https://hal.science/hal-05772664v1/document" %} {% include doi-icon.html url="https://doi.org/10.1007/s00158-026-04420-9" %} </span>
+  
 - V. Mahé, A. Mélot, B. Chouvion, and C. Droz, “Computing the dynamic response of periodic waveguides with nonlinearboundaries using the wave finite element method” *Computers and Structures*, vol. 315, p. 107778, 2025
 <span style="display:inline-flex; gap:0.3em; align-items:center;"> {% include hal-icon.html url="https://hal.science/hal-05037340v2/document" %} {% include doi-icon.html url="https://doi.org/10.1016/j.compstruc.2025.107778" %} </span>
 
