@@ -27,12 +27,12 @@ Toutes mes publications scientifiques sont disponibles en libre accès sur
 
 ## Dernières conférences
 
+- P. Pinel de Golleville, P. Coisnon, P. Cranga, J. Montagny, B. Chouvion, and O. Montagnier, “Etude des techniques de couplage pour la simulation de la dynamique d’un système rotor-structure d’hélicoptère,” Giens: CSMA 17ème colloque national en Calcul des Structures, 2026.
+- M. de La Bigne, B. Chouvion, K. Roncin, and A. Bosq, “Étude de la déformation des lignes d’un kite de traction : modélisation et validation expérimentale,” Giens: CSMA 17ème colloque national en Calcul des Structures, 2026.
+- N. Razaaly and B. Chouvion, “Optimisation robuste avec contraintes de fiabilité – Application au contrôle passif du flottement aéroélastique,” Giens: CSMA 17ème colloque national en Calcul des Structures, 2026.
+- F. Maetz, F. Renaud, J.-L. Dion, A. Leroy, and B. Chouvion, “Estimation cinématique du cycle limite de flottement par assimilation de données,” Giens: CSMA 17ème colloque national en Calcul des Structures, 2026.
 - V. Mahé, A. Mélot, C. Droz, and B. Chouvion, “Wave-based modelling of arbitrarily complex periodic waveguides with nonlinear boundaries,” Rennes, France: IOMAC, 2025.
 - V. Mahé, A. Mélot, B. Chouvion, and C. Droz, “Wave-based reduction of finite phononic structures with nonlinear boundary conditions,” Hoboken, New Jersey, USA: NODYCON, 2025.
 - F. Maetz, F. Renaud, J.-L. Dion, B. Chouvion, and A. Leroy, “Flutter of Flexible Wings: A High-Speed Video Investigation,” Paris, France: SURVISHNO Conference, 2025.
 - F. Maetz, B. Chouvion, F. Renaud, A. Leroy, J.-L. Dion, and O. Montagnier, “Experimental and Numerical Investigation of Flexible Wing Flutter,” ECCOMAS HFSS 2025, 2025.
-- K. Dhital, B. Chouvion, and H. Jae-Hung, “Flow-induced vibration control of an airfoil using nonlinear tuned vibration absorber,” Amsterdam, Netherlands: ICSV, 2024.
-- V. Mahé, C. Droz, B. Chouvion, and A. Mélot, “Computing the dynamic response of a periodic structure coupled with a nonlinear junction using the harmonic balance method and Floquet-Bloch modelling,” Nantes, France: Internoise, 2024.
-- V. Mahé, A. Mélot, B. Chouvion, and C. Droz, “Computing the dynamics of periodic waveguides with nonlinear boundaries using the Wave Finite Element Method,” Lyon: Journées du GdR EX-MODELI, 2024.
-- F. Maetz, B. Chouvion, F. Renaud, J.-L. Dion, A. Leroy, and O. Montagnier, “Analyse expérimentale et numérique du flottement aéroélastique de structures élancées,” Paris: Journées des jeunes chercheurs en acoustique, vibration et bruit, 2024.
-- J. Bernard-Lameau, J. Loustau-Laguide, K. Roncin, B. Chouvion, and L. Daridon, “Etude du sens de parcours sur une trajectoire en huit pour un kite de traction au vent arrière,” Nantes: Journées de l’Hydrodynamique, 2024.
+
