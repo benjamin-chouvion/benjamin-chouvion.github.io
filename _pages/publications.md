@@ -16,7 +16,7 @@ Toutes mes publications scientifiques sont disponibles en libre accès sur
 
 ## Dernières publications
 
-- P. Pinel de Golleville, B. Chouvion, R. Coisnon, J. Montagny, P. Cranga, and O. Montagnier, "Understanding Floquet frequency indeterminacy in time-periodic systems: Application to anisotropic helicopter ground resonance", *Journal of Sound and Vibration*, vol. xx, p. 120198, 2026 <span style="display:inline-flex; gap:0.3em; align-items:center;"> {% include hal-icon.html url="https://hal.science/hal-05825872v1/document" %} {% include doi-icon.html url="https://doi.org/10.1016/j.jsv.2026.120198" %} </span>
+- P. Pinel de Golleville, B. Chouvion, R. Coisnon, J. Montagny, P. Cranga, and O. Montagnier, "Understanding Floquet frequency indeterminacy in time-periodic systems: Application to anisotropic helicopter ground resonance", *Journal of Sound and Vibration*, vol. 648, p. 120198, 2027 <span style="display:inline-flex; gap:0.3em; align-items:center;"> {% include hal-icon.html url="https://hal.science/hal-05825872v1/document" %} {% include doi-icon.html url="https://doi.org/10.1016/j.jsv.2026.120198" %} </span>
 
 - N. Razaaly and B. Chouvion, "Quantile-based reliability-constrained optimization of a nonlinear absorber for passive aeroelastic control under aleatory uncertainty", *Structural and Multidisciplinary Optimization*, vol. 69, p. 227, 2026 <span style="display:inline-flex; gap:0.3em; align-items:center;"> {% include hal-icon.html url="https://hal.science/hal-05772664v1/document" %} {% include doi-icon.html url="https://doi.org/10.1007/s00158-026-04420-9" %} </span>
   
