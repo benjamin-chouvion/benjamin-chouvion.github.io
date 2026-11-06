@@ -11,6 +11,12 @@ Les personnes dont les noms sont <span style="color:#555;">grisés</span> ont te
 ## En cours
 
 ### Post-doctorants
+- **Hailu Gebremedhen** (18 mois, 2026-2028)
+![hailu](/images/people/hailu.png){: .align-right width="125px"}
+  - Développement d’un outil de simulation du vol d’un kite pour la traction des navires
+  - Financement BPI, projet KIWIN
+<br style="clear: right;">
+
 - **Alexandre Schiavini** (18 mois, 2026-2028)
 ![alexandre](/images/people/alexandre.png){: .align-right width="125px"}
   - Modélisation avancée pour le contrôle vibratoire de structures spatiales
