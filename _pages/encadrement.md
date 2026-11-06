@@ -14,7 +14,7 @@ Les personnes dont les noms sont <span style="color:#555;">grisés</span> ont te
 - **Alexandre Schiavini** (18 mois, 2026-2028)
 ![alexandre](/images/people/alexandre.png){: .align-right width="125px"}
   - Modélisation avancée pour le contrôle vibratoire de structures spatiales
-  - Financement AID, projet CRESAT
+  - Financement AID, projet CRESAT  
 <br style="clear: right;">
 
 - **Marguerite de La Bigne** (24 mois, 2025-2027)
