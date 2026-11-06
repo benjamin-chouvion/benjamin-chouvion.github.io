@@ -11,18 +11,17 @@ Les personnes dont les noms sont <span style="color:#555;">grisés</span> ont te
 ## En cours
 
 ### Post-doctorants
+- **Alexandre Schiavini** (18 mois, 2026-2028)
+![alexandre](/images/people/alexandre.png){: .align-right width="125px"}
+  - Modélisation avancée pour le contrôle vibratoire de structures spatiales
+  - Financement AID, projet CRESAT
+<br style="clear: right;">
+
 - **Marguerite de La Bigne** (24 mois, 2025-2027)
 ![marguerite](/images/people/marguerite.png){: .align-right width="125px"}
   - Développement d’outils de dimensionnement pour le comportement non-linéaire d’un
 kite de traction
   - Financement BPI, projet KIWIN
-<br style="clear: right;">
-
-- **Kailash Dhital** (27 mois, 2024-2026)
-![kailash](/images/people/kailash.png){: .align-right width="125px"}
-  - Développement de modèles pour le contrôle passif de flottement d’ailes très flexibles par
-utilisation de volets non-linéaires
-  - Financement AID, projet COFLAP
 <br style="clear: right;">
 
 ### Doctorants
@@ -54,6 +53,13 @@ utilisation de volets non-linéaires
 ## Terminés
 
 ### Post-doctorant
+- **Kailash Dhital** (27 mois, 2024-2026)
+![kailash](/images/people/kailash.png){: .align-right width="125px"}
+  - Développement de modèles pour le contrôle passif de flottement d’ailes très flexibles par
+utilisation de volets non-linéaires
+  - Financement AID, projet COFLAP
+<br style="clear: right;">
+
 - **Roberto Alcorta** (18 mois, 2022-2023)
 ![roberto](/images/people/roberto.png){: .align-right width="125px"}
   - Maîtrise du flottement d’ailes très flexibles de drones par ajout d’amortisseurs non-linéaires
@@ -111,6 +117,7 @@ utilisation de volets non-linéaires
 <br style="clear: right;">
 
 ### Stagiaires Master
+- **Alexandre Barreca** (2026) : Etude expérimentale du comportement de câbles d'attache en UHMPE
 - **Armelle Treguer** (2025) : Modélisation des lignes de traction d’un cerf-volant
 - **Ariane Bosq** (2025) : Simulation éléments-finis d’un cerf-volant
 - **Cécile Lorrillard** (2025) : Contrôle passif de flottement d’ailes très flexibles de drone solaire
